@@ -121,6 +121,11 @@ textarea:-moz-placeholder {
   position: fixed;
   bottom: 0;
   width: 100%;
+  text-decoration: none;
+}
+a{
+ text-decoration: none;
+ color: rgb(61, 157, 179);
 }
 
 input {
